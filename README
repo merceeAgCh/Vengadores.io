@@ -1,0 +1,22 @@
+MAC- Programación web (frontend)
+
+
+Notas:
+A) La carpeta de css, contiene:
+    1) El archivo de fontawesome (toddos los ioconos utilizadoss) link de font: https://fontawesome.com/icons?d=gallery
+    2) Archivo font awesome ie7, que es para que internet explorer detecte de forma correcta los iconos.
+    3) El archivo style, el que se usa siempre para dar estilo al archivo de html.
+
+B) Las imagenes siempre se encontraran en la carpeta nombrada img, images o imagenes.
+C) Los archivos con extension html, siempre estaran en la carpeta raiz del proyecto.
+
+IMPORTANTE:
+Siempre se debe documentar lo que se realiza.
+
+ToDo
+Crea un archivo html que contenga la información de contacto y al presionar en menu el "contacto" se envie al usuario al archivo creado. (hipervinculo/enlace).
+Este debe contener estilo en css.
+
+
+NOTA 2:
+Usar GitHub Pages.
