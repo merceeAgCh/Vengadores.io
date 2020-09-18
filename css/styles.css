@@ -431,6 +431,14 @@ ul {
   margin: 0 auto;
   max-width: 1200px;
 }
+/*
+@media(min-width: 768px){
+    .contenido-wrapper{
+        text-align: center;
+    }
+} /*
+  Los media se usan para hacer responsiva la pagina, mandando a llamar el nombre de la clase que se asigno a cada div o section.
+  */
 /* Header
    ========================================================================== */
 
